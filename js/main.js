@@ -2,7 +2,7 @@
 // Please refer to the "Required Tasks in the assignments PDF"
 
 // html for the add cheep create function
-
+/*
   <div class="col">
     <div class="card shadow-sm">
       <img class="bd-placeholder-img card-img-top" src="ALBUM IMAGE SELECTION HERE"/>
@@ -12,7 +12,7 @@
       </div>
     </div>
   </div>
-
+*/
 document.addEventListener('DOMContentLoaded', () => {
   const albumForm = document.getElementById('album-form');
 
